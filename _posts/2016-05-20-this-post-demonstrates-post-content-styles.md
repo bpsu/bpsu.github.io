@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: misc
+categories: batteries
 author:
 - Bart Simpson
 - Nelson Mandela Muntz
