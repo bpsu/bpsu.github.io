@@ -85,6 +85,12 @@
     }
     margin-left: 20px;
   }
+  
+  .menu-item {
+    max-width: 25%;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
 
   @media screen and (min-width: $on-medium) {
     position: static;
