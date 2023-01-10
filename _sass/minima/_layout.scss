@@ -1,6 +1,13 @@
 /**
  * Site header
  */
+
+.menu-item {
+  max-width: 25%;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
 .site-header {
   border-top: 5px solid $border-color-01;
   border-bottom: 1px solid $border-color-01;
@@ -84,12 +91,6 @@
       margin-right: 0;
     }
     margin-left: 20px;
-  }
-  
-  .menu-item {
-    max-width: 25%;
-    border-radius: 5px;
-    margin-right: 5px;
   }
 
   @media screen and (min-width: $on-medium) {
